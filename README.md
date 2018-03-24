@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project showing how to use GitHub
+Updating to do an emergency fix before stash.
 
 ## Introduction
 
