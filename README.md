@@ -15,3 +15,8 @@ This is again, a demonstration of a website project for purposes of training in 
 This is how we deploy something.
 
 ## How To Contribute
+
+
+### Copyright
+
+2018 Git.training.
