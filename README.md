@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project showing how to use GitHub
+Woot woot, adding a line for rebasing example.
 
 ## Introduction
 
