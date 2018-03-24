@@ -1,7 +1,6 @@
 # Starter Web Project
 
 This is a simple website project showing how to use GitHub
-Woot woot, adding a line for rebasing example, then more changes from myfeature branch as well...
 
 ## Introduction
 
@@ -21,4 +20,4 @@ Please fork this repo and then issue pull-requests for review.  :)
 
 ### Copyright
 
-2018 Git.training.
+2018 Git.training. All rights reserved.
